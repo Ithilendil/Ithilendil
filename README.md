@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithilendil&theme=prussian" alt="ithilendil's Stats" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithilendil&theme=prussian" alt="ithilendil's Languages" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithilendil&theme=merko" alt="ithilendil's Stats" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithilendil&theme=merko" alt="ithilendil's Languages" /></span>
