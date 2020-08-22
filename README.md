@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ithilendil&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithilendil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithilendil&theme=prussian" alt="ithilendil's Stats" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithilendil&theme=prussian" alt="ithilendil's Languages" /></span>
